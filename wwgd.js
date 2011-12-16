@@ -17,3 +17,5 @@ http.get(options, function gotIt(res) {
 });
 
 console.log("I'm done!");
+
+// Now I can do something else...
